@@ -1,8 +1,8 @@
 # 05 Third-Party APIs: Work Day Scheduler
-[Link to the live page](https://clabel95.github.io/05-Third-Party-APIs-Homework/)
+[Link to the live page](https://clabel95.github.io/Work-Day-Planner/)
 
 
-[Link to the github repository](https://github.com/clabel95/05-Third-Party-APIs-Homework)
+[Link to the github repository](https://github.com/clabel95/Work-Day-Planner)
 
 ## My task
 
